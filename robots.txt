@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erabichi-note.github.io/erabicho/sitemap.xml
